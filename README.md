@@ -76,7 +76,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="668" height="572" alt="image" src="https://github.com/user-attachments/assets/462cca6b-ea0a-4103-951c-d1da3b29789e" />
+<img width="562" height="518" alt="image" src="https://github.com/user-attachments/assets/3c4f0d4b-562b-4c9b-9c33-cce7e3c5b374" />
 
 ### 5. Create a Kernel
 
@@ -96,7 +96,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="645" height="562" alt="image" src="https://github.com/user-attachments/assets/208b406a-0012-4106-a017-33a0aa6a0c14" />
+<img width="852" height="547" alt="image" src="https://github.com/user-attachments/assets/58350cfa-9a75-4554-8c30-1830525bcb78" />
 
 ### 7. Apply Dilation
 
@@ -110,7 +110,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="712" height="570" alt="image" src="https://github.com/user-attachments/assets/f90783ba-f69d-4f08-a9a2-b3ffc634e5f3" />
+<img width="735" height="563" alt="image" src="https://github.com/user-attachments/assets/f588e91e-b2b6-45f3-b576-5dccf1e7dca1" />
 
 ## Result
 
